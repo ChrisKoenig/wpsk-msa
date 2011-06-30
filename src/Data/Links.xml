@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<links>
+  <link>
+    <url>http://www.facebook.com/microsoft/</url>
+    <title>on Facebook</title>
+  </link>
+  <link>
+    <url>http://twitter.com/microsoft/</url>
+    <title>on Twitter</title>
+  </link>
+  <link isRSS="true">
+    <url>http://blogs.msdn.com/b/mainfeed.aspx?Type=BlogsOnly</url>
+    <title>MSDN News</title>
+  </link>
+</links>

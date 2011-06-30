@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<links>
+  <link>
+    <url>http://contosouniversity.net</url>
+    <title>Top Sports News</title>
+  </link>
+  <link>
+    <url>http://contosouniversity.net</url>
+    <title>Men's Basketball News</title>
+  </link>
+  <link>
+    <url>http://contosouniversity.net</url>
+    <title>Women's Basketball News</title>
+  </link>
+  <link>
+    <url>http://contosouniversity.net</url>
+    <title>Men's Swimming and Diving News</title>
+  </link>
+  <link>
+    <url>http://contosouniversity.net</url>
+    <title>Women's Track and Field News</title>
+  </link>
+</links>
